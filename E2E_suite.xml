@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E2E Suite">
+    <test verbose="2" preserve-order="true" name="C:\Users\Aidana\DemoQAWinter2024\src\test">
+        <classes>
+            <class name="TextBoxTest"></class>
+            <class name="WebTablesTest"></class>
+            <class name="ProgressBarTest"></class>
+        </classes>
+    </test>
+</suite>
